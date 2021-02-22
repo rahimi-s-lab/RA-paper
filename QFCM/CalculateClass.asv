@@ -1,0 +1,18 @@
+function classDistance = CalculateClass (x)
+
+    load ('interSec.mat');  %intersection points of Gaussian MFs wich are calculated by GauusianMF.m
+    
+    Distance = abs(x-interSec);
+    
+    SortedDistance=sort(Distance);
+    
+    x1=find(Distance==SortedDistance(1));
+    x2=find(Distance==SortedDistance(2));
+    
+    class = min(x1,x2)-1;
+    Distance= (x-interSec(x1))^2+(x-interSec(x2))^2;
+    classDistance=
+    
+
+
+end
