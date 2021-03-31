@@ -17,7 +17,7 @@ array(0,	0,	0,	0.945400753870771,	0.393145676104474,	0.444607307172364,	0,	-0.48
 array(1,	0,	0,	-0.403068517242143,	-0.787713246257627,	0,	0,	0,	0.447529838559745,	0)); //obtained from QFCM algorithm
 
 $interSec = array(0, 0.075, 0.225, 0.4, 0.6, 0.85, 1); //intersections of fuzzy membership functions. They are decision boundries.
-$classNames = array('Extremely minor', 'very minor', 'minor', 'severe', 'very severe', 'Extremely severe');  //name of the 6 classes
+$classNames = array('Extremely Minor', 'Very Minor', 'Minor', 'Severe', 'Very Severe', 'Extremely Severe');  //name of the 6 classes
 
 if (isset($_POST['uploadBtn'])) //is post method working properly?
 {
@@ -42,7 +42,7 @@ if (isset($_POST['uploadBtn'])) //is post method working properly?
 				// check if file has one of the following extensions
 				if ($fileExtension == 'txt')
 				{
-					$uploadFileDir = './uploadedFiles/';
+					$uploadFileDir = './uploaded_files/';
 					$dest_path = $uploadFileDir . $newFileName;
 					if(move_uploaded_file($fileTmpPath, $dest_path)) 
 					{
