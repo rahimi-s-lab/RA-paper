@@ -6,6 +6,6 @@ Results  and  Conclusions:Our  proposed  model  not  only  outper-formed other m
 For  future  studies,  we  are  suggesting  scaling  up  the  developedapp and identifying facilitators and barriers of using this app in clinical practice.
 
 The website can be accessed from:
-https://rahimislab.com/rheumatoidarthritisdiagnosis/
+https://rheumatoidarthritisdiagnose.000webhostapp.com/
 
 Rahimi S, Mitra A et al. 2021
