@@ -5,6 +5,6 @@ We also  compared  the  results  of  our  model  with  machine  learning methods
 Results  and  Conclusions:Our  proposed  model  not  only  outper-formed other machine learning methods in terms of accuracy butalso,  in  contrast  to  the  others,  our  model  revealed  the  relationof the features with one another and gave higher explainability. 
 For  future  studies,  we  are  suggesting  scaling  up  the  developedapp and identifying facilitators and barriers of using this app in clinical practice.
 
-The website can be accessed from: https://rahimislab.ca/webform
+The website can be accessed from: https://rahimislab.ca/ra-dss
 
 Rahimi S, Mitra A et al. 2021
