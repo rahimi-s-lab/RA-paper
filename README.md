@@ -7,4 +7,18 @@ For  future  studies,  we  are  suggesting  scaling  up  the  developedapp and i
 
 The website can be accessed from: https://rahimislab.ca/ra-dss
 
-Rahimi S, Mitra A et al. 2021
+
+
+Please cite this paper if you use this method or codes:
+
+```sh
+@article{rahimi2022quantum,
+  title={Quantum-Inspired Interpertable AI-Empowered Decision Support System for Detection of Early-Stage Rheumatoid Arthritis in Primary Care Using Scarce Dataset},
+  author={Rahimi, Samira Abbasgholizadeh and Kolahdoozi, Mojtaba and Mitra, Arka and Salmeron, Jose L and Navali, Amir Mohammad and Sadeghpour, Alireza and Mir Mohammadi, Amir},
+  journal={Mathematics},
+  volume={10},
+  number={3},
+  pages={496},
+  year={2022},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
