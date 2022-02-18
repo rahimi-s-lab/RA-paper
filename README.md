@@ -9,7 +9,7 @@ The website can be accessed from: https://rahimislab.ca/ra-dss
 
 
 
-Please cite this paper if you use this method or codes:
+Please cite this paper if you use this methodology or our code:
 
 ```sh
 @article{rahimi2022quantum,
